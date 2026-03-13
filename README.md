@@ -56,4 +56,6 @@ IIT Patna
 <img width="928" height="459" alt="image" src="https://github.com/user-attachments/assets/cddf6e22-6b64-4c91-97ba-cfe917d83ae2" />
 
 
+<img width="910" height="527" alt="image" src="https://github.com/user-attachments/assets/8ce61cf1-10b5-4749-ba6f-5de2f2c4c6b1" />
 
+<img width="946" height="544" alt="image" src="https://github.com/user-attachments/assets/a2b2b570-44c6-4ca0-90ba-db0df752437a" />
