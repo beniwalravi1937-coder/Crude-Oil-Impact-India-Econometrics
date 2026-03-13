@@ -52,3 +52,8 @@ Ravish Beniwal
 
 BS Economics  
 IIT Patna
+
+<img width="928" height="459" alt="image" src="https://github.com/user-attachments/assets/cddf6e22-6b64-4c91-97ba-cfe917d83ae2" />
+
+
+
